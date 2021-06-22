@@ -66,4 +66,7 @@ public class MainActivity extends AppCompatActivity {
                 .setText(txt)
                 .startChooser();
     }
+
+    public void callNumber(View view) {
+    }
 }
